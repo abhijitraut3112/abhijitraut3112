@@ -20,7 +20,7 @@
 <a href="https://instagram.com/_abhijeet_raut_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abhijit_raut_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucl-apgreg5onmw7rzdyt1_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucl-apgreg5onmw7rzdyt1_g" height="30" width="40" /></a>
   
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/domains/java?filters%5bstatus%5d%5b%5d=unsolved&badge_type=java" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/domains/java?filters%5bstatus%5d%5b%5d=unsolved&badge_type=java" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/abhijeetraut3111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/domains/java?filters%5bstatus%5d%5b%5d=unsolved&badge_type=java" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/abhijeetraut311299/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhijeetraut311299/profile" height="30" width="40" /></a>
 </p>
 
