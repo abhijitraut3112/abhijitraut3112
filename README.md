@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DBMS,JAVA,C++,PYTHON**
 
-- 📫 How to reach me **abhijeetraut@gmail.com**
+- 📫 How to reach me **abhijeetraut0312@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
