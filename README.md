@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhijeetraut311299@gmail.com**
 
-- ⚡ Fun fact **I play games and go to treaking very often.**
+- ⚡ Fun fact **I play games and go to treaking very often...**
 
 ## 🚀 Languages and Tools:
 
