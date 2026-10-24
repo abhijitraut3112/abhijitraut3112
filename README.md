@@ -1,9 +1,9 @@
-[![MasterHead](https://user-images.githubusercontent.com/65649115/219759150-cc75022c-0325-4eb1-91ca-fd55e2349458.gif)](https://github.com/anupam6335)
+[![MasterHead](https://user-images.githubusercontent.com/65649115/219759150-cc75022c-0325-4eb1-91ca-fd55e2349458.gif)](https://github.com/abhijitraut3112)
 
 <h1 align="center">Hi 🙋‍♂️, I'm Abhijit Raut</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anupam6335&label=Profile%20views&color=0e75b6&style=flat" alt="anupam6335" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhijitraut3112&label=Profile%20views&color=0e75b6&style=flat" alt="abhijitraut3112" /> </p>
 
 ## 🙋‍♂️ About Me
 
